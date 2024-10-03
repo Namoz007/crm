@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487561663012",
+    "project_id": "crm-system-95776",
+    "storage_bucket": "crm-system-95776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487561663012:android:89e80ca89b2dd82bc83eb1",
+        "android_client_info": {
+          "package_name": "com.example.dars_81_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487561663012-k7d2ihu8k84mvh93ugpfhadjiimvdnrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT53w55vlTsBm8dFag2AOGliOQOnQTjGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487561663012-k7d2ihu8k84mvh93ugpfhadjiimvdnrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
